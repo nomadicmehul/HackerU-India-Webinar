@@ -19,6 +19,8 @@ Special thanks to [Swaroop Yermalkar](https://twitter.com/swaroopsy) for hosting
 
 #### Event type: Closed 
 
+<h2><a href="https://speakerdeck.com/rowdymehul/first-look-containers-and-docker">Slides</a></h2>
+
 Feel free to ping me anytime on [Telegram](http://telegram.me/rowdymehul) or [Twitter](http://twitter.com/rowdymehul) and I’m happy to chat with you.
 
 For any queries raise a [issue](https://github.com/rowdymehul/HackerU-India-Webinar/issues) and please feel free to submit a PR anytime :)
